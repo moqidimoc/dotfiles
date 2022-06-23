@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = manuel.ortiz.cacha@ingka.ikea.com
+	name = Manuel Ortiz Cacha
